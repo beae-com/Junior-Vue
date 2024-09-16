@@ -14,7 +14,7 @@
 3. Local storage (Bonus - không bắt buộc)
 - Lưu trạng thái của danh sách công việc vào localStorage để khi reload trang vẫn giữ lại được danh sách công việc đã thêm.
 ## Yêu cầu:
-- Sử dụng Vue.js phiên bản 3.
+- Sử dụng Vue.js.
 - Sử dụng TailwindCss để style cho components.
 ## Các tiêu chí đánh giá:
 - Kiến thức cơ bản về VueJS: Sử dụng đúng cách các directive như v-for, v-bind, v-model, và v-on.
