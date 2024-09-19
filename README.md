@@ -1,3 +1,4 @@
+## Video thành phẩm https://www.loom.com/share/1c1347aba0be44f7969a17c972ea1a0d
 ## Đề bài:
 - Thời gian làm bài: 30 phút
 - Yêu cầu ứng viên xây dựng một ứng dụng Vue đơn giản có các chức năng sau:
